@@ -38,7 +38,7 @@ export default function Order_detail() {
                     </div>
                     <div className="border-2 border-black w-10 h-10 mt-2 py-2 rounded-lg" role="button">
                       <span className="svg-icon svg-icon-primary svg-icon-2x"><svg xmlns="http://www.w3.org/2000/svg" className="w-9" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
                           <rect x="0" y="0" width="24" height="24" />
                           <path d="M16,17 L16,21 C16,21.5522847 15.5522847,22 15,22 L9,22 C8.44771525,22 8,21.5522847 8,21 L8,17 L5,17 C3.8954305,17 3,16.1045695 3,15 L3,8 C3,6.8954305 3.8954305,6 5,6 L19,6 C20.1045695,6 21,6.8954305 21,8 L21,15 C21,16.1045695 20.1045695,17 19,17 L16,17 Z M17.5,11 C18.3284271,11 19,10.3284271 19,9.5 C19,8.67157288 18.3284271,8 17.5,8 C16.6715729,8 16,8.67157288 16,9.5 C16,10.3284271 16.6715729,11 17.5,11 Z M10,14 L10,20 L14,20 L14,14 L10,14 Z" fill="#000000" />
                           <rect fill="#000000" opacity="0.3" x="8" y="2" width="8" height="2" rx="1" />
@@ -60,7 +60,7 @@ export default function Order_detail() {
 
                       <div className="card2 flex max-w-22 justify-between">
                         <span className="svg-icon svg-icon-primary svg-icon-2x h-11 w-11 flex justify-center bg-red-800 rounded-lg"><svg xmlns="http://www.w3.org/2000/svg" className="mt-2 text-white" width="30px" height="30px" viewBox="0 0 24 24" version="1.1">
-                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" className="text-white">
+                          <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd" className="text-white">
                             <rect x="0" y="0" width="24" height="24" />
                             <circle fill="#000000" opacity="0.3" cx="12" cy="12" r="10" />
                             <path d="M12,11 C10.8954305,11 10,10.1045695 10,9 C10,7.8954305 10.8954305,7 12,7 C13.1045695,7 14,7.8954305 14,9 C14,10.1045695 13.1045695,11 12,11 Z M7.00036205,16.4995035 C7.21569918,13.5165724 9.36772908,12 11.9907452,12 C14.6506758,12 16.8360465,13.4332455 16.9988413,16.5 C17.0053266,16.6221713 16.9988413,17 16.5815,17 L7.4041679,17 C7.26484009,17 6.98863236,16.6619875 7.00036205,16.4995035 Z" fill="#000000" opacity="0.3" />
@@ -89,9 +89,9 @@ export default function Order_detail() {
 
                       <div className="card2 flex max-w-22 justify-between">
                         <span className="svg-icon svg-icon-primary svg-icon-2x h-11 w-11 flex justify-center bg-red-800 rounded-lg"><svg xmlns="http://www.w3.org/2000/svg" className="mt-2" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                          <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
                             <rect x="0" y="0" width="24" height="24" />
-                            <path d="M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z" fill="#000000" fill-rule="nonzero" opacity="0.3" />
+                            <path d="M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z" fill="#000000" fillRule="nonzero" opacity="0.3" />
                             <path d="M6.84712709,9 L17.1528729,9 C17.6417121,9 18.0589022,9.35341304 18.1392668,9.83560101 L19.611867,18.671202 C19.7934571,19.7607427 19.0574178,20.7911977 17.9678771,20.9727878 C17.8592143,20.9908983 17.7492409,21 17.6390792,21 L6.36092084,21 C5.25635134,21 4.36092084,20.1045695 4.36092084,19 C4.36092084,18.8898383 4.37002252,18.7798649 4.388133,18.671202 L5.86073316,9.83560101 C5.94109783,9.35341304 6.35828794,9 6.84712709,9 Z" fill="#000000" />
                           </g>
                         </svg></span>
@@ -118,9 +118,9 @@ export default function Order_detail() {
 
                       <div className="card2 flex max-w-22 justify-between">
                         <span className="svg-icon svg-icon-primary svg-icon-2x h-11 w-11 flex justify-center bg-red-800 rounded-lg"><svg xmlns="http://www.w3.org/2000/svg" className="mt-2" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                          <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
                             <rect x="0" y="0" width="24" height="24" />
-                            <path d="M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z" fill="#000000" fill-rule="nonzero" opacity="0.3" />
+                            <path d="M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z M14,9 L14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 L10,9 L8,9 L8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 L16,9 L14,9 Z" fill="#000000" fillRule="nonzero" opacity="0.3" />
                             <path d="M6.84712709,9 L17.1528729,9 C17.6417121,9 18.0589022,9.35341304 18.1392668,9.83560101 L19.611867,18.671202 C19.7934571,19.7607427 19.0574178,20.7911977 17.9678771,20.9727878 C17.8592143,20.9908983 17.7492409,21 17.6390792,21 L6.36092084,21 C5.25635134,21 4.36092084,20.1045695 4.36092084,19 C4.36092084,18.8898383 4.37002252,18.7798649 4.388133,18.671202 L5.86073316,9.83560101 C5.94109783,9.35341304 6.35828794,9 6.84712709,9 Z" fill="#000000" />
                           </g>
                         </svg></span>
@@ -164,13 +164,13 @@ export default function Order_detail() {
                     <div className="bg-[#FEF0DC]"><div className="badge badge-outline text-black py-4 font-bold px-4 border-2 border-black rounded-lg">Note</div></div>
                     <textarea className="card-body bg-[#FEF0DC] border-solid border-2 border-black rounded-xl text-black mt-2 focus:pointer-events-none">
                       <span className="svg-icon svg-icon-primary svg-icon-2x"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
                           <rect x="0" y="0" width="24" height="24" />
-                          <path d="M4.88230018,17.2353996 L13.2844582,0.431083506 C13.4820496,0.0359007077 13.9625881,-0.12427877 14.3577709,0.0733126292 C14.5125928,0.15072359 14.6381308,0.276261584 14.7155418,0.431083506 L23.1176998,17.2353996 C23.3152912,17.6305824 23.1551117,18.1111209 22.7599289,18.3087123 C22.5664522,18.4054506 22.3420471,18.4197165 22.1378777,18.3482572 L14,15.5 L5.86212227,18.3482572 C5.44509941,18.4942152 4.98871325,18.2744737 4.84275525,17.8574509 C4.77129597,17.6532815 4.78556182,17.4288764 4.88230018,17.2353996 Z" fill="#000000" fill-rule="nonzero" transform="translate(14.000087, 9.191034) rotate(-315.000000) translate(-14.000087, -9.191034) " />
+                          <path d="M4.88230018,17.2353996 L13.2844582,0.431083506 C13.4820496,0.0359007077 13.9625881,-0.12427877 14.3577709,0.0733126292 C14.5125928,0.15072359 14.6381308,0.276261584 14.7155418,0.431083506 L23.1176998,17.2353996 C23.3152912,17.6305824 23.1551117,18.1111209 22.7599289,18.3087123 C22.5664522,18.4054506 22.3420471,18.4197165 22.1378777,18.3482572 L14,15.5 L5.86212227,18.3482572 C5.44509941,18.4942152 4.98871325,18.2744737 4.84275525,17.8574509 C4.77129597,17.6532815 4.78556182,17.4288764 4.88230018,17.2353996 Z" fill="#000000" fillRule="nonzero" transform="translate(14.000087, 9.191034) rotate(-315.000000) translate(-14.000087, -9.191034) " />
                         </g>
                       </svg></span>
                       {/* <h2 className="card-title justify-between"> <span className="svg-icon svg-icon-primary svg-icon-2x place-items-end"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
                           <rect x="0" y="0" width="24" height="24" />
                           <circle fill="#000000" cx="12" cy="5" r="2" />
                           <circle fill="#000000" cx="12" cy="12" r="2" />
@@ -188,7 +188,7 @@ export default function Order_detail() {
                 <div className="flex justify-between" >
                   <div className="row text-black ml-4 mt-4 font-bold text-lg">Products</div>
                   <div role="button" className="dots mt-4 mr-5"><span className="svg-icon svg-icon-primary svg-icon-2x place-items-end"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
                       <rect x="0" y="0" width="24" height="24" />
                       <circle fill="#000000" cx="12" cy="5" r="2" />
                       <circle fill="#000000" cx="12" cy="12" r="2" />

@@ -16,6 +16,7 @@ import Dashboard from "./Components/dashboard";
 import Listing from "./Components/listing";
 import Order from "./Components/order";
 import Order_detail from "./Components/order_detail";
+import Blog from "./Components/blog";
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
               <Route path="/order" element={<Order />} />
 
               <Route path="/order_detail" element={<Order_detail />} />
+              <Route path="/blog" element={<Blog />} />
             </Routes>
           </div>
         </div>
